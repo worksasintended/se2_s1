@@ -13,6 +13,8 @@ enableChalkboard: false
 enableSearch: false
 enableZoom: true
 enableTitleFooter: false
+link-citations: true
+bibliography: cit.bib
 
 ---
 
@@ -36,12 +38,7 @@ REVIEW SPRINT 1
 - Auftragvermittler
 - Auftrag: Interaktives Spiel für Besucher des Campus-Tag / Tag der Technik 
 - Auftraggeber: Fakultät für Elektrotechnik und Informatik der Hochschule Stralsund
-
-<div>
-<br><br>
-</div>
-
-<small>Quelle: [Folien der Lehrveranstaltung](https://ilias.hochschule-stralsund.de/ilias/ilias.php?ref_id=130049&cmd=view&cmdClass=ilrepositorygui&cmdNode=u4&baseClass=ilrepositorygui)</small>
+- [ \[P1\] Folien der Lehrveranstaltung](https://ilias.hochschule-stralsund.de/ilias/ilias.php?ref_id=130049&cmd=view&cmdClass=ilrepositorygui&cmdNode=u4&baseClass=ilrepositorygui)
 
 --
 
@@ -62,7 +59,7 @@ REVIEW SPRINT 1
 <br>
 </div>
 
-<small>Quelle: [Folien der Lehrveranstaltung](https://ilias.hochschule-stralsund.de/ilias/ilias.php?ref_id=130049&cmd=view&cmdClass=ilrepositorygui&cmdNode=u4&baseClass=ilrepositorygui), persönliches Gespräch</small>
+<small>Quelle: [\[P1\]](https://ilias.hochschule-stralsund.de/ilias/ilias.php?ref_id=130049&cmd=view&cmdClass=ilrepositorygui&cmdNode=u4&baseClass=ilrepositorygui), persönliches Gespräch</small>
 
 
 
@@ -74,7 +71,7 @@ REVIEW SPRINT 1
 - Interview
   - Zielgruppe identifizieren
   - Anforderungen definieren
-- [Gesprächsprotokoll](https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9) widerspricht teilweise Protokollen anderer Anwesender <br>
+- [\[P2\] Gesprächsprotokoll](https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9) widerspricht teilweise Protokollen anderer Anwesender <br>
   -> Audioaufnahme
 
 
@@ -93,7 +90,7 @@ REVIEW SPRINT 1
 <br>
 </div>
 
-<small>Quelle: [Gesprächsprotokoll](https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9)</small>
+<small>Quelle: [\[P2\]](https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9)</small>
 
 --
 
@@ -111,7 +108,7 @@ REVIEW SPRINT 1
 <br>
 </div>
 
-<small>Quelle: [Gesprächsprotokoll](https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9)</small>
+<small>Quelle: [\[P2\]](https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9)</small>
 
 --
 
@@ -129,7 +126,7 @@ REVIEW SPRINT 1
 
 
 
-<small>Quelle: [Gesprächsprotokoll](https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9)</small>
+<small>Quelle: [\[P2\]](https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9)</small>
 
 --
 
@@ -145,8 +142,35 @@ REVIEW SPRINT 1
 
 # Sekundärquellen
 
-Grobe Zusammenfassung Statistiken
+--
 
+## Sekundärquellen
+
+<small style="text-align: left">
+
+[\[S1\] Nach-dem-Abitur.de: *Umfrage 2016*, abg. 17.4.20](
+https://www.nach-dem-abitur.de/umfragen-nach-dem-abitur-ergebnisse)
+
+[\[S2\] Deutsche Bildung: *SchulhofBarometer2017*, abg. 17.4.20](
+https://www.deutsche-bildung.de/fileadmin/Dokumente/SchulhofBarometer_2017.pdf)
+
+[\[S3\] Statista: *Geschlechterverteilung im Informatik Studium 2020*, abg. 20.4.20](
+https://de.statista.com/statistik/daten/studie/732331/umfrage/studierende-im-fach-informatik-in-deutschland-nach-geschlecht/)
+
+[\[S4\] Statista: *Altersverteilung Gamer in Deutschland 2020*, abg. 19.4.20](
+https://de.statista.com/statistik/daten/studie/198202/umfrage/altersverteilung-von-gamern-in-deutschland-in-absoluten-zahlen/)
+
+[\[S5\] Statista: *Bevölkerung - Zahl der Einwohner in Deutschland nach Altersgruppen 2019*, abg. 19.4.20](
+https://de.statista.com/statistik/daten/studie/1365/umfrage/bevoelkerung-deutschlands-nach-altersgruppen/)
+
+[\[S6\] Statista: *Anzahl der Schüler/innen an allgemeinbildenden und beruflichen Schulen in D 2020*, abg. 20.4.20](
+https://de.statista.com/statistik/daten/studie/981823/umfrage/anzahl-der-schueler-an-allgemeinbildenden-schulen/)
+
+[\[S7\] SIHK Luenburg: *IHKN-Auszubildenden-Zufriedenheitsumfrage 2018*, abg. 20.4.20](
+https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a820184b248711670c1bb2ad959/ergebnisse-der-azubi-zufriedenheitsumfrage-2018-data.pdf)
+
+[\[S8\] Statistisches Amt MV: *Entwicklung an den Hochschulen des Landes MecklenburgVorpommern 2019*](https://cdn.discordapp.com/attachments/697379084698910814/701988856328880128/SchulhofBarometer_20171.pdf)
+</small>
 
 ---
 
@@ -163,6 +187,207 @@ Grobe Zusammenfassung Statistiken
 
 - Zielgruppe: 
   - Mögliche zukünftige Studienanfänger 
+
+--
+
+### Extrema Name 1
+
+
+<small style="text-align:left">
+
+
+<img src="img/persona.jpg"  style="float:right; width:25%; margin-right:5%"/>
+
+
+<p><span style="color: white;">Alter:</span> 15 [P2]</p>
+
+<p><span style="color: white;">Geschlecht:</span> männlich</p>
+
+<p><span style="color: white;">Wohnort:</span> Stralsund</p>
+
+<p><span style="color: white;">Beschäftigung:</span> Schüler [P2]</p>
+
+<p style="color:white">Background:</p> <p>&nbsp;&nbsp;&nbsp; - Von Eltern mitgebracht, hätten gerne das er studiert [P2] <br> 
+&nbsp;&nbsp;&nbsp;  - Feste Freundesgruppe [S1]</p>
+
+<p style="color:white">Vorkenntnisse:</p> <p>&nbsp;&nbsp;&nbsp; - Informatik in der Schule</p>
+
+</small> 
+
+--
+
+### Extrema Name 1
+
+
+<small style="text-align:left">
+
+
+<img src="img/persona.jpg"  style="float:right; width:18%; margin-right:10%"/>
+
+
+
+<p style="color:white">Ziele:</p> 
+  <p>&nbsp;&nbsp;&nbsp; - Realschule -> Ausbildung [S1]
+ <br> 
+  &nbsp;&nbsp;&nbsp;  - Direkt Geld verdienen [S1,S.20][S2]
+</p>
+<br>
+<p style="color:white">Frustration:</p> 
+  <p>
+
+  &nbsp;&nbsp;&nbsp; - Motivationslosigkeit gegenüber Theorie [S1,S.20]<br> 
+  &nbsp;&nbsp;&nbsp; - Undursichtige Übersicht über Möglichkeiten [S1,S.20]<br> 
+  &nbsp;&nbsp;&nbsp; - Praktischer Anteil nicht direkt ersichtlich [S1,S.20]<br> 
+  &nbsp;&nbsp;&nbsp; - Arbeitsplatzsicherheit und mögliches Gehalt [S7]<br> 
+  &nbsp;&nbsp;&nbsp; - Geldsorgen [S7]
+
+</p>
+
+<p style="color:white">Motivationen:</p> 
+  <p>
+
+  &nbsp;&nbsp;&nbsp; - Spielt gerne Computerspiele [S4][S5][S6]<br> 
+  &nbsp;&nbsp;&nbsp; - Eltern beide Ausbildung gemacht [S1] <br> 
+  &nbsp;&nbsp;&nbsp; - (Pflichtpraktikum) Durch Praktikum motiviert zum Arbeiten [S7]
+
+</p>
+
+
+
+</small> 
+
+
+
+--
+
+### Extrema Name 2
+
+
+<small style="text-align:left">
+
+
+<img src="img/persona.jpg"  style="float:right; width:25%; margin-right:5%"/>
+
+
+<p><span style="color: white;">Alter:</span> 16 [P2]</p>
+
+<p><span style="color: white;">Geschlecht:</span> weiblich</p>
+
+<p><span style="color: white;">Wohnort:</span> Berlin</p>
+
+<p><span style="color: white;">Beschäftigung:</span> Schülerin / Gymnasium [P2]</p>
+
+<p style="color:white">Background:</p> <p>&nbsp;&nbsp;&nbsp; - Gute Schülerin <br> 
+&nbsp;&nbsp;&nbsp;  - Soziales Engagement, Betreuung Kindersportgruppe</p>
+
+<p style="color:white">Vorkenntnisse:</p> <p>&nbsp;&nbsp;&nbsp; - Informatik in der Schule<br> 
+&nbsp;&nbsp;&nbsp;  - Leistungskurs Mathematik [S2]</p>
+</small> 
+
+--
+
+### Extrema Name 2
+
+
+<small style="text-align:left">
+
+
+<img src="img/persona.jpg"  style="float:right; width:18%; margin-right:10%"/>
+
+
+
+<p style="color:white">Ziele:</p> 
+  <p>&nbsp;&nbsp;&nbsp; - guter, sicherer Job <br> 
+  &nbsp;&nbsp;&nbsp;  - <i>"etwas bewegen"</i> [S2]
+</p>
+
+<p style="color:white">Frustration:</p> 
+  <p>
+
+  &nbsp;&nbsp;&nbsp; - Welcher Studiengang? [S1][S2]<br> 
+  &nbsp;&nbsp;&nbsp; - Druck, über die Zukunft zu entscheiden[S1]<br> 
+  &nbsp;&nbsp;&nbsp; - Fehlende Übersicht über Möglichkeiten[S1]
+</p>
+
+<p style="color:white">Motivationen:</p> 
+  <p>
+
+  &nbsp;&nbsp;&nbsp; - Will studieren [S1][S2]<br> 
+  &nbsp;&nbsp;&nbsp; - Soziales Engagement, Betreueung Sportgruppe [S1][S2] <br> 
+  &nbsp;&nbsp;&nbsp; - Kreativität im Beruf <br>
+  &nbsp;&nbsp;&nbsp; - Raus aus der Großstadt 
+
+</p>
+
+
+
+</small> 
+
+--
+
+### Extrema Name 3
+
+
+<small style="text-align:left">
+
+
+<img src="img/persona.jpg"  style="float:right; width:25%; margin-right:5%"/>
+
+
+<p><span style="color: white;">Alter:</span> 17 [P2]</p>
+
+<p><span style="color: white;">Geschlecht:</span> männlich</p>
+
+<p><span style="color: white;">Wohnort:</span> Greifswald</p>
+
+<p><span style="color: white;">Beschäftigung:</span> Schüler / Gymnasium [P2]</p>
+
+<p style="color:white">Background:</p> <p>&nbsp;&nbsp;&nbsp; - Nach der Schule Auslandsjahr [S2] <br> 
+&nbsp;&nbsp;&nbsp;  - danach studieren[S1][S2]</p>
+
+<p style="color:white">Vorkenntnisse:</p> <p>&nbsp;&nbsp;&nbsp; - Informatik in der Schule<br> 
+&nbsp;&nbsp;&nbsp;  - Sehr gebildeter akademischer Haushalt</p>
+</small> 
+
+--
+
+### Extrema Name 3
+
+
+<small style="text-align:left">
+
+
+<img src="img/persona.jpg"  style="float:right; width:18%; margin-right:10%"/>
+
+
+
+<p style="color:white">Ziele:</p> 
+  <p>&nbsp;&nbsp;&nbsp; - Akademischer Abschluss
+ <br> 
+  &nbsp;&nbsp;&nbsp;  - Hoher Lebensstandard
+</p>
+
+<p style="color:white">Frustration:</p> 
+  <p>
+
+  &nbsp;&nbsp;&nbsp; - Viel Theorie -> Angst zu scheitern / Eltern zu enttäuschen [S1]
+<br> 
+  &nbsp;&nbsp;&nbsp; - Verlust des Freundeskreises [S1]
+</p>
+
+<p style="color:white">Motivationen:</p> 
+  <p>
+
+  &nbsp;&nbsp;&nbsp; - Erwartungen der Eltern erfüllen [P2][S1]<br> 
+  &nbsp;&nbsp;&nbsp; - Ansehen durch akademischen Abschluss
+
+</p>
+
+
+
+</small> 
+
+
 
 ---
 
@@ -237,6 +462,7 @@ Zielgruppe | Mika Wegener
 - Kalender
 - Polls
 - Konferenzsoftware
+- UXpressia.com
 
 --
 
@@ -250,9 +476,42 @@ Zielgruppe | Mika Wegener
 
 
 
+---
 
+# Quellen
 
+--
 
+<small style="text-align: left">
+
+[\[P1\] Prof. Wedemann: *Gespräch und Folien der Lehrveranstaltung*](https://ilias.hochschule-stralsund.de/ilias/ilias.php?ref_id=130049&cmd=view&cmdClass=ilrepositorygui&cmdNode=u4&baseClass=ilrepositorygui)
+
+[\[P2\] Tilo Zülske: *Gesprächsprotokoll Interview April 2020*](
+https://nextcloud.msl-services.de/s/RoeWcGxiHDPkQC9)
+
+[\[S1\] Nach-dem-Abitur.de: *Umfrage 2016*, abg. 17.4.20](
+https://www.nach-dem-abitur.de/umfragen-nach-dem-abitur-ergebnisse)
+
+[\[S2\] Deutsche Bildung: *SchulhofBarometer2017*, abg. 17.4.20](
+https://www.deutsche-bildung.de/fileadmin/Dokumente/SchulhofBarometer_2017.pdf)
+
+[\[S3\] Statista: *Geschlechterverteilung im Informatik Studium 2020*, abg. 20.4.20](
+https://de.statista.com/statistik/daten/studie/732331/umfrage/studierende-im-fach-informatik-in-deutschland-nach-geschlecht/)
+
+[\[S4\] Statista: *Altersverteilung Gamer in Deutschland 2020*, abg. 19.4.20](
+https://de.statista.com/statistik/daten/studie/198202/umfrage/altersverteilung-von-gamern-in-deutschland-in-absoluten-zahlen/)
+
+[\[S5\] Statista: *Bevölkerung - Zahl der Einwohner in Deutschland nach Altersgruppen 2019*, abg. 19.4.20](
+https://de.statista.com/statistik/daten/studie/1365/umfrage/bevoelkerung-deutschlands-nach-altersgruppen/)
+
+[\[S6\] Statista: *Anzahl der Schüler/innen an allgemeinbildenden und beruflichen Schulen in D 2020*, abg. 20.4.20](
+https://de.statista.com/statistik/daten/studie/981823/umfrage/anzahl-der-schueler-an-allgemeinbildenden-schulen/)
+
+[\[S7\] SIHK Luenburg: *IHKN-Auszubildenden-Zufriedenheitsumfrage 2018*, abg. 20.4.20](
+https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a820184b248711670c1bb2ad959/ergebnisse-der-azubi-zufriedenheitsumfrage-2018-data.pdf)
+
+[\[S8\] Statistisches Amt MV: *Entwicklung an den Hochschulen des Landes MecklenburgVorpommern 2019*](https://cdn.discordapp.com/attachments/697379084698910814/701988856328880128/SchulhofBarometer_20171.pdf)
+</small>
 
 
 
