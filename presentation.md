@@ -45,12 +45,11 @@ REVIEW SPRINT 1
 ## Prof. Wedemann
 
 
-- Funktionale Anforderungen
+- Anforderungen
   - 1-4 Spieler 
   - 3-5 Minuten Spielzeit
   - Toucheingabe über Folie / Monitor
   - Keine mobilen Endgeräte
-- Nicht-Funktional Anforderungen
   - Hohes interaktives Level *"Action"*
   - Interesse am Studiengang SMIB wecken
 
@@ -79,12 +78,13 @@ REVIEW SPRINT 1
 
 ## Tilo Zülske
 
-- Funktionale Anforderungen
+- Anforderungen
   - Toucheingabe
   - 1-8 Spieler in ein bis zwei Instanzen
   - Kurze abgeschlossene Spieleinheiten
   - Eventuell mit Ton
-
+  - Eventuell Pause-Funktion
+  - ...
 <div>
 <br>
 <br>
@@ -96,7 +96,8 @@ REVIEW SPRINT 1
 
 ## Tilo Zülske
 
-- Nicht-Funktional Anforderungen
+- Anforderungen
+  - ...
   - Selbsterklärende Spielregeln
   - Geringer Betreuungsaufwand
   - Geringer Wartungsaufwand
@@ -172,6 +173,20 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 [\[S8\] Statistisches Amt MV: *Entwicklung an den Hochschulen des Landes MecklenburgVorpommern 2019*](https://cdn.discordapp.com/attachments/697379084698910814/701988856328880128/SchulhofBarometer_20171.pdf)
 </small>
 
+--
+
+## Daten über Schüler und Azubi
+
+- Anzahl Gamer
+- Auswertung des Schulhofbarometers
+
+--
+
+## Daten über Studierende
+
+- etwa 6300 Studienanfänger an der Host, davon 3100 weiblich [S8]
+- bundesweit weniger als 20% der Studierenden des Fachs Informatik weiblich [S3]
+
 ---
 
 # Personae
@@ -190,13 +205,13 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 
 --
 
-### Extrema Name 1
+### Jannis Lehmann
 
 
 <small style="text-align:left">
 
 
-<img src="img/persona.jpg"  style="float:right; width:25%; margin-right:5%"/>
+<img src="img/persona1.jpg"  style="float:right; width:25%; margin-right:5%"/>
 
 
 <p><span style="color: white;">Alter:</span> 15 [P2]</p>
@@ -216,13 +231,13 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 
 --
 
-### Extrema Name 1
+### Jannis Lehman
 
 
 <small style="text-align:left">
 
 
-<img src="img/persona.jpg"  style="float:right; width:18%; margin-right:10%"/>
+<img src="img/persona1.jpg"  style="float:right; width:25%; margin-right:5%"/>
 
 
 
@@ -260,13 +275,13 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 
 --
 
-### Extrema Name 2
+### Julie Busch
 
 
 <small style="text-align:left">
 
 
-<img src="img/persona.jpg"  style="float:right; width:25%; margin-right:5%"/>
+<img src="img/persona2.jpg"  style="float:right; width:20%; margin-right:10%"/>
 
 
 <p><span style="color: white;">Alter:</span> 16 [P2]</p>
@@ -280,19 +295,18 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 <p style="color:white">Background:</p> <p>&nbsp;&nbsp;&nbsp; - Gute Schülerin <br> 
 &nbsp;&nbsp;&nbsp;  - Soziales Engagement, Betreuung Kindersportgruppe</p>
 
-<p style="color:white">Vorkenntnisse:</p> <p>&nbsp;&nbsp;&nbsp; - Informatik in der Schule<br> 
-&nbsp;&nbsp;&nbsp;  - Leistungskurs Mathematik [S2]</p>
+<p style="color:white">Vorkenntnisse:</p> <p>&nbsp;&nbsp;&nbsp; - Leistungskurs Mathematik [S2]</p>
 </small> 
 
 --
 
-### Extrema Name 2
+### Julie Busch
 
 
 <small style="text-align:left">
 
 
-<img src="img/persona.jpg"  style="float:right; width:18%; margin-right:10%"/>
+<img src="img/persona2.jpg"  style="float:right; width:20%; margin-right:10%"/>
 
 
 
@@ -314,8 +328,7 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 
   &nbsp;&nbsp;&nbsp; - Will studieren [S1][S2]<br> 
   &nbsp;&nbsp;&nbsp; - Soziales Engagement, Betreueung Sportgruppe [S1][S2] <br> 
-  &nbsp;&nbsp;&nbsp; - Kreativität im Beruf <br>
-  &nbsp;&nbsp;&nbsp; - Raus aus der Großstadt 
+  &nbsp;&nbsp;&nbsp; - Kreativität im Beruf 
 
 </p>
 
@@ -325,13 +338,13 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 
 --
 
-### Extrema Name 3
+### Robert Krause
 
 
 <small style="text-align:left">
 
 
-<img src="img/persona.jpg"  style="float:right; width:25%; margin-right:5%"/>
+<img src="img/persona3.jpg"  style="float:right; width:35%; margin-right:5%"/>
 
 
 <p><span style="color: white;">Alter:</span> 17 [P2]</p>
@@ -345,19 +358,19 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 <p style="color:white">Background:</p> <p>&nbsp;&nbsp;&nbsp; - Nach der Schule Auslandsjahr [S2] <br> 
 &nbsp;&nbsp;&nbsp;  - danach studieren[S1][S2]</p>
 
-<p style="color:white">Vorkenntnisse:</p> <p>&nbsp;&nbsp;&nbsp; - Informatik in der Schule<br> 
+<p style="color:white">Vorkenntnisse:</p> <p>&nbsp;&nbsp;&nbsp; - Fortgeschrittener Umgang mit digitalen Medien<br> 
 &nbsp;&nbsp;&nbsp;  - Sehr gebildeter akademischer Haushalt</p>
 </small> 
 
 --
 
-### Extrema Name 3
+### Robert Krause
 
 
 <small style="text-align:left">
 
 
-<img src="img/persona.jpg"  style="float:right; width:18%; margin-right:10%"/>
+<img src="img/persona3.jpg"  style="float:right; width:35%; margin-right:5%"/>
 
 
 
@@ -403,7 +416,7 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 
 --
 
-<div style="text-align: center; width: 80%; margin-left: auto; margin-right: auto">
+<div style="text-align: center; width: 90%; margin-left: auto; margin-right: auto; margin-top:-4.5%">
   <img src="img/CJM_Gamelab.png"  style="position:relative; left:0px; top:0px;" width="100%"/>
 </div>
 
@@ -416,12 +429,12 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 ## Wie können wir...
 
 <section style="text-align:left">
-  <p class="fragment">... Aufmerksamkeit erzeugen?</p>
-  <p class="fragment">... Anhaltenden Spielspaß erzeugen?</p>
-  <p class="fragment">... den Fokus auf die Technik lenken?</p>
-  <p class="fragment">... Interesse für das Studium erwecken?</p>
+  <p class="fragment">... Aufmerksamkeit auf den Stand lenken?</p>
+  <p class="fragment">... das Spiel für Beobachter interessant gestalten?</p>
+  <p class="fragment">... mittel des Spiels für das Studienfach werben?</p>
+  <p class="fragment">... dem Besucher eine nachhaltig positive Erfahrung ernöglichen?</p>
   <p class="fragment">... das Spiel ausreichend schnell erschließbar gestalten?</p>
-  <p class="fragment">- ... Die Fakultät überzeugen ausreichende Mittel zur Verfügung zu stellen?</p>
+  <p class="fragment">... Die Fakultät überzeugen ausreichende Mittel zur Verfügung zu stellen?</p>
 </section>
 
 
@@ -456,7 +469,7 @@ Zielgruppe | Mika Wegener
 
 ## Verwendete Tools
 
-- Kanban (Trello)
+- Kanban-Board (Trello)
 - Google Docs
 - Cloud Storage
 - Kalender
@@ -469,9 +482,10 @@ Zielgruppe | Mika Wegener
 ## Ablauf
 
 - Regelmäßige Teambesprechungen
-- Aufgabenverteilung (Kanban)
-- Vorstellung der Ergebnisse
-- Erneute Aufgabenverteilung
+- Vorstellung der Ergebnisse seit letztem Treffen
+- Gemeinsamer Review der Ergebnisse
+- Erneute Aufgabenverteilung 
+- Update Kanban-Board
 
 
 
