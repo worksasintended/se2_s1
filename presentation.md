@@ -173,17 +173,121 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 [\[S8\] Statistisches Amt MV: *Entwicklung an den Hochschulen des Landes MecklenburgVorpommern 2019*](https://cdn.discordapp.com/attachments/697379084698910814/701988856328880128/SchulhofBarometer_20171.pdf)
 </small>
 
---
 
-## Daten über Schüler und Azubi
-
-- Anzahl Gamer
-- Auswertung des Schulhofbarometers
 
 --
 
-## Daten über Studierende
 
+## Kriterien berufliche Entscheidung
+
+<canvas data-chart="bar">
+<!-- 
+{
+ "data": {
+  "labels": ["Interessen / Fähigkeiten","Gehalt","Berufschancen","Selbstverwirklichung"],
+  "datasets": [
+   {
+    "data":[35,25,20,14],
+    "label":"Kriterien berufliche Entscheidung [S1]","backgroundColor":"rgba(38,139,210,.8)"
+   }
+  ]
+ }, 
+"options": { 
+    "responsive": "true" ,
+    "scales": {
+      "yAxes": [{
+        "ticks": {
+          "beginAtZero": "true"
+        },
+        "scaleLabel": {
+          "display": "false",
+          "labelString": "% der befragten Schüler der Stufen 9-12"
+        }
+      }]
+    }
+  }
+}
+-->
+</canvas>
+
+--
+
+## Nach dem Abitur
+
+
+
+<canvas data-chart="bar">
+<!-- 
+{
+ "data": {
+  "labels": ["Ungewiss", "Ausland", "Studium", "Jobben", "Ausbildung"],
+  "datasets": [
+   {
+    "data":[35,25,15,10,10],
+    "label":"Plan nach dem Abitur [S1]","backgroundColor":"rgba(38,139,210,.8)"
+   }
+  ]
+ }, 
+ "options": { 
+    "responsive": "true" ,
+    "scales": {
+      "yAxes": [{
+        "ticks": {
+          "beginAtZero": "true"
+        },
+        "scaleLabel": {
+          "display": "false",
+          "labelString": "% der befragten Schüler der Stufen 9-12"
+        }
+      }]
+    }
+  }
+}
+-->
+</canvas>
+
+
+
+--
+
+## Gründe für Unentschlossenheit
+
+<canvas data-chart="bar">
+<!-- 
+{
+ "data": {
+  "labels": ["Entscheidung fällt schwer", "Nicht informiert", "Überfordert", "Mangelnder Überblick"],
+  "datasets": [
+   {
+    "data":[57,24,23,20],
+    "label":"Schwierigkeiten bei Zukunftsentscheidung [S2]","backgroundColor":"rgba(38,139,210,.8)"
+   }
+  ]
+ }, 
+"options": { 
+    "responsive": "true" ,
+    "scales": {
+      "yAxes": [{
+        "ticks": {
+          "beginAtZero": "true"
+        },
+        "scaleLabel": {
+          "display": "false",
+          "labelString": "% der befragten Schüler der Stufen 9-12"
+        }
+      }]
+    }
+  }
+}
+-->
+</canvas>
+
+
+--
+
+## Weitere Ergebnisse
+
+- etwa 61% der jugendlichen zwischen 10-19 spielen Computerspiele [S4][S5]
 - etwa 6300 Studienanfänger an der Host, davon 3100 weiblich [S8]
 - bundesweit weniger als 20% der Studierenden des Fachs Informatik weiblich [S3]
 
@@ -527,59 +631,6 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 [\[S8\] Statistisches Amt MV: *Entwicklung an den Hochschulen des Landes MecklenburgVorpommern 2019*](https://cdn.discordapp.com/attachments/697379084698910814/701988856328880128/SchulhofBarometer_20171.pdf)
 </small>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---
-
-<canvas class="stretch" data-chart="bar">
-
-<!--
-{
- "data": {
-  "labels": ["Finanzielle Verluste", "Uneinholbare Rückstände", "Verlust der Geschäftssparte ", "Kundenverlust", "Insolvenz"],
-  "datasets":[
-   {
-    "data":[27, 8, 11, 3, 1],
-    "label":"Quelle: Spice Works 2018","backgroundColor":"rgba(38,139,210,1)"
-   }
-  ]
- }, 
- "options": { "responsive": "true",
- "scales": {
-    "yAxes": [{
-      "scaleLabel": {
-        "display": "false",
-        "labelString": "Folge in % der Fälle"
-      }
-    }]
-  }     
- 
-  }
-}
--->
-
-</canvas>
-
-
-
---
 
 
 
