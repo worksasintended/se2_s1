@@ -29,6 +29,19 @@ REVIEW SPRINT 1
 
 ---
 
+## Übersicht
+
+1. Quellenanalyse
+    * Primärquellen
+    * Sekundärquellen
+2. Personae
+3. Customer Journey Maps
+4. Wie können wir...
+5. Stakeholder
+6. Vorgehen
+
+---
+
 # Primärquellen
 
 --
@@ -201,7 +214,7 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
         },
         "scaleLabel": {
           "display": "false",
-          "labelString": "% der befragten Schüler der Stufen 9-12"
+          "labelString": "% der befragten Schüler"
         }
       }]
     }
@@ -237,7 +250,7 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
         },
         "scaleLabel": {
           "display": "false",
-          "labelString": "% der befragten Schüler der Stufen 9-12"
+          "labelString": "% der befragten Schüler"
         }
       }]
     }
@@ -287,7 +300,7 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 
 ## Weitere Ergebnisse
 
-- etwa 61% der jugendlichen zwischen 10-19 spielen Computerspiele [S4][S5]
+- etwa 69% der Jugendlichen zwischen 10-19 spielen Computerspiele [S4][S5]
 - etwa 6300 Studienanfänger an der Host, davon 3100 weiblich [S8]
 - bundesweit weniger als 20% der Studierenden des Fachs Informatik weiblich [S3]
 
@@ -314,8 +327,10 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 
 <small style="text-align:left">
 
-
-<img src="img/persona1.jpg"  style="float:right; width:25%; margin-right:5%"/>
+<div style="float:right; width:28%; margin-right:5%">
+<img src="img/persona1.jpg"  style="width:100%"/>
+<p style="margin-top: -1%">Quelle: [M1]</p>
+</div>
 
 
 <p><span style="color: white;">Alter:</span> 15 [P2]</p>
@@ -341,7 +356,10 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 <small style="text-align:left">
 
 
-<img src="img/persona1.jpg"  style="float:right; width:25%; margin-right:5%"/>
+<div style="float:right; width:28%; margin-right:5%">
+<img src="img/persona1.jpg"  style="width:100%"/>
+<p style="margin-top: -1%">Quelle: [M1]</p>
+</div>
 
 
 
@@ -385,7 +403,10 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 <small style="text-align:left">
 
 
-<img src="img/persona2.jpg"  style="float:right; width:20%; margin-right:10%"/>
+<div style="float:right; width:25%; margin-right:5%">
+<img src="img/persona2.jpg"  style="width:100%"/>
+<p style="margin-top: -1%">Quelle: [M1]</p>
+</div>
 
 
 <p><span style="color: white;">Alter:</span> 16 [P2]</p>
@@ -410,7 +431,10 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 <small style="text-align:left">
 
 
-<img src="img/persona2.jpg"  style="float:right; width:20%; margin-right:10%"/>
+<div style="float:right; width:25%; margin-right:5%">
+<img src="img/persona2.jpg"  style="width:100%"/>
+<p style="margin-top: -1%">Quelle: [M1]</p>
+</div>
 
 
 
@@ -448,7 +472,10 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 <small style="text-align:left">
 
 
-<img src="img/persona3.jpg"  style="float:right; width:35%; margin-right:5%"/>
+<div style="float:right; width:38%; margin-right:5%">
+<img src="img/persona3.jpg"  style="width:100%"/>
+<p style="margin-top: -1%">Quelle: [M1]</p>
+</div>
 
 
 <p><span style="color: white;">Alter:</span> 17 [P2]</p>
@@ -474,7 +501,10 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 <small style="text-align:left">
 
 
-<img src="img/persona3.jpg"  style="float:right; width:35%; margin-right:5%"/>
+<div style="float:right; width:38%; margin-right:5%">
+<img src="img/persona3.jpg"  style="width:100%"/>
+<p style="margin-top: -1%">Quelle: [M1]</p>
+</div>
 
 
 
@@ -535,8 +565,8 @@ https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a82018
 <section style="text-align:left">
   <p class="fragment">... Aufmerksamkeit auf den Stand lenken?</p>
   <p class="fragment">... das Spiel für Beobachter interessant gestalten?</p>
-  <p class="fragment">... mittel des Spiels für das Studienfach werben?</p>
-  <p class="fragment">... dem Besucher eine nachhaltig positive Erfahrung ernöglichen?</p>
+  <p class="fragment">... mittels des Spiels für das Studienfach werben?</p>
+  <p class="fragment">... dem Besucher eine nachhaltig positive Erfahrung ermöglichen?</p>
   <p class="fragment">... das Spiel ausreichend schnell erschließbar gestalten?</p>
   <p class="fragment">... Die Fakultät überzeugen ausreichende Mittel zur Verfügung zu stellen?</p>
 </section>
@@ -629,6 +659,9 @@ https://de.statista.com/statistik/daten/studie/981823/umfrage/anzahl-der-schuele
 https://www.ihk-lueneburg.de/blueprint/servlet/resource/blob/4200664/df2f6a820184b248711670c1bb2ad959/ergebnisse-der-azubi-zufriedenheitsumfrage-2018-data.pdf)
 
 [\[S8\] Statistisches Amt MV: *Entwicklung an den Hochschulen des Landes MecklenburgVorpommern 2019*](https://cdn.discordapp.com/attachments/697379084698910814/701988856328880128/SchulhofBarometer_20171.pdf)
+
+[\[M1\] Unsplash Inc](https://unsplash.com/)
+
 </small>
 
 
